@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+ul{
+    list-style: none;
+}
+#menu{
+        position: fixed;
+        right: 30px;
+        top:50px;
+        z-index: 100;
+        list-style:none;
+    }
+    #menu li{
+    	text-align: center;
+    	font-size: 10px;
+        width:15px;
+        height:15px;
+        border-radius: 50%;
+        background-color:#1E5F6F;
+        margin-top: 10px;
+    }
+    #menu li a{
+    	color: #fff;
+    	text-decoration: none;
+    }
+    #menu li.active{
+        background-color: #00fff9;
+    }
+    .container{
+    	width:1200px;
+    	margin:0 auto;
+    }
+    h1{
+    	color:#00FFF9;
+    }
+    h3{
+    	color:#00FFF9;
+    }
+    .xiaofei{
+        margin-top: 30px;
+    }
+    #xiaofeiul{
+        margin-top: 20px;
+    }
+    #xiaofeiul li{
+        float: left;
+        color:#178590;
+        margin-left: 20px;
+        font-size: 14px;
+    }
+    #xiaofeiul li span{
+        font-size: 18px;
+        color: #00FFF9;
+    }
+      .page2 .p{
+           color:#00fff9;
+       }
+    .page2 .p1{
+           font-size: 50px;
+           margin-bottom: 0;
+       }
+    .page2 .p2{
+           font-size: 20px;
+           margin-top: 10px;
+           letter-spacing: 5px;
+       }
+    .page2 .p3{
+         font-size: 40px;
+         margin-bottom: 0;
+        color:#00fff9;
+        margin-top: -20px;
+     }
+    .page3 .box1{
+        width:28%;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+.page3 h1{
+    font-size: 50px;
+    font-weight: normal;
+    margin-left:100px;
+    margin-bottom: 0;
+}
+.page3 h3{
+    font-size: 30px;
+    font-weight: normal;
+    margin-left:80px;
+}
+.page3 .box1 ul li{
+    color: #49BDCA;
+    border-bottom: 2px solid #49BDCA;
+    margin-top: 20px;
+    font-size: 20px;
+    padding-left: 20px;
+}
+.page3 .box1 ul .main6li{
+    padding-left: 0;
+}
+.page4 .container{
+    width:1200px;
+    margin: 0 auto;
+}
+.page4 h1{
+    font-weight: normal;
+    font-size: 50px;
+}
+.page4 .num{
+    color:#00fff9;
+    font-size: 28px;
+    margin-left:20px;
+}
+.page4 .num span{
+    font-size: 38px;
+}
+.page4 .pingmu li{
+    float: left;
+    width:330px;
+    height: 220px;
+    color: #00fff9;
+    margin: 10px 20px;
+}
+.page4 .pingmu li div{
+    background-color: #000;
+}
+.page4 .pingmu li p{
+    margin-top: 0;
+}
+.page5 .container{
+    width:1200px;
+    margin: 0 auto;
+}
+.page5 h1{
+    font-weight: normal;
+    font-size: 50px;
+}
+.page5 .gaikuang{
+	margin-top: 150px;
+}
+.page5 .gaikuang li{
+    font-size: 20px;
+    color:#49BDCA;
+}
+.page5 .gaikuang li span{
+    font-size: 30px;
+    display: inline-block;
+    min-width: 150px;
+}
+.page5 .gaikuang li:first-of-type{
+    color:#00fff9;
+}
+.page6 .container{
+    width:1200px;
+    margin: 0 auto;
+}
+.page6 h1{
+    font-weight: normal;
+    font-size: 50px;
+}
+.page7 .container{
+    width:1200px;
+    margin: 0 auto;
+}
+.page7 h1{
+    font-weight: normal;
+    font-size: 50px;
+}
+.page7 .guangzhao{
+	height: 80px;
+}
+.page7 .guangzhao li{
+	float: left;
+	color:#00FFF9;
+	font-size: 20px;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.page9 .container{
+    width:1200px;
+    margin: 0 auto;
+}
+.page9 h1{
+    font-weight: normal;
+    font-size: 50px;
+}
+.page9 .qiandao{
+	width:400px;
+	height: 500px;
+	text-align: center;
+	box-sizing: border-box;
+	padding-top: 100px;
+}
+.page9 .p1{
+	font-size: 100px;
+	color:#00FFF9
+}
+.page9 .p2{
+	font-size: 50px;
+	color:#00FFF9
+}
